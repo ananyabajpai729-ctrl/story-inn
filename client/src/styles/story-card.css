@@ -1,0 +1,52 @@
+.story-card {
+    display: flex;
+    flex-direction: column;
+
+    background-color: #ffffff;
+
+    border: 1px solid #e5e7eb;
+    border-radius: 12px;
+
+    overflow: hidden;
+
+    transition: transform 0.2s ease,
+                box-shadow 0.2s ease;
+}
+
+.story-card:hover {
+    transform: translateY(-4px);
+
+    box-shadow: 0 12px 24px rgba(0,0,0,0.08);
+}
+
+.story-card__cover {
+    width: 100%;
+    height: 260px;
+    object-fit: cover;
+}
+
+.story-card__content {
+    display: flex;
+    flex-direction: column;
+
+    gap: 0.8rem;
+
+    padding: 1.5rem;
+}
+
+.story-card__title {
+    margin: 0;
+    font-size: 1.4rem;
+}
+
+.story-card__author {
+    margin: 0;
+    color: #4b5563;
+    font-weight: 500;
+}
+
+.story-card__genre {
+    margin: 0;
+    color: #6b7280;
+    font-size: 0.95rem;
+}

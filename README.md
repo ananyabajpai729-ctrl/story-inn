@@ -2,7 +2,6 @@
 
 A full-stack storytelling platform being built as a learning project.
 
-![Story Inn Hero](https://via.placeholder.com/800x400?text=Story+Inn+Hero) <!-- Replace with a real screenshot later -->
 
 ## ✨ About the Project
 
@@ -100,19 +99,6 @@ npm run lint     # Run ESLint
 - Comments & Community Interaction
 - Deployment (Vercel/Netlify for frontend, Render/Heroku/etc. for backend)
 
-## 🤝 Contributing
-
-This is a learning project — contributions and feedback are very welcome!
-
-1. Fork the project
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
 ## ❤️ Acknowledgments
 

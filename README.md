@@ -64,10 +64,9 @@ npm run lint     # Run ESLint
 
 ### 📁 Project Structure
 story-inn/
-├── client/                  # Frontend React app
-│   ├── public/
+├── client/                 # React + Vite frontend
 │   ├── src/
-│   │   ├── components/      # Reusable UI components
+│   │   ├── components/     # Reusable UI components
 │   │   │   ├── Button.jsx
 │   │   │   ├── FeatureCard.jsx
 │   │   │   ├── FeaturedStories.jsx
@@ -78,14 +77,16 @@ story-inn/
 │   │   │   └── StoryCard.jsx
 │   │   ├── pages/
 │   │   │   └── Home.jsx
-│   │   ├── styles/          # Component-specific CSS
+│   │   ├── styles/         # Component-specific styles
 │   │   ├── App.jsx
 │   │   └── main.jsx
 │   ├── index.html
 │   ├── vite.config.js
-│   └── package.json
+│   ├── package.json
+│   └── ...
 ├── README.md
 └── package-lock.json
+
 
 ## 🛣️ Roadmap / Future Plans
 

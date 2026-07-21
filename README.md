@@ -63,29 +63,29 @@ npm run lint     # Run ESLint
 ```
 
 ### 📁 Project Structure
-story-inn/
-├── client/                 # React + Vite frontend
-│   ├── src/
-│   │   ├── components/     # Reusable UI components
-│   │   │   ├── Button.jsx
-│   │   │   ├── FeatureCard.jsx
-│   │   │   ├── FeaturedStories.jsx
-│   │   │   ├── FeaturesSection.jsx
-│   │   │   ├── Footer.jsx
-│   │   │   ├── Hero.jsx
-│   │   │   ├── Navbar.jsx
-│   │   │   └── StoryCard.jsx
-│   │   ├── pages/
-│   │   │   └── Home.jsx
-│   │   ├── styles/         # Component-specific styles
-│   │   ├── App.jsx
-│   │   └── main.jsx
-│   ├── index.html
-│   ├── vite.config.js
-│   ├── package.json
-│   └── ...
-├── README.md
-└── package-lock.json
+    story-inn/
+    ├── client/                 # React + Vite frontend
+    │   ├── src/
+    │   │   ├── components/     # Reusable UI components
+    │   │   │   ├── Button.jsx
+    │   │   │   ├── FeatureCard.jsx
+    │   │   │   ├── FeaturedStories.jsx
+    │   │   │   ├── FeaturesSection.jsx
+    │   │   │   ├── Footer.jsx
+    │   │   │   ├── Hero.jsx
+    │   │   │   ├── Navbar.jsx
+    │   │   │   └── StoryCard.jsx
+    │   │   ├── pages/
+    │   │   │   └── Home.jsx
+    │   │   ├── styles/         # Component-specific styles
+    │   │   ├── App.jsx
+    │   │   └── main.jsx
+    │   ├── index.html
+    │   ├── vite.config.js
+    │   ├── package.json
+    │   └── ...
+    ├── README.md
+    └── package-lock.json
 
 
 
